@@ -1,7 +1,10 @@
 # Dynamic UI Builder with JSON
 
-Welcome to the Dynamic UI Builder with JSON ! This project allows you to create dynamic and highly customizable user interfaces for your applications using JSON configurations.
+Welcome to the Dynamic UI Builder with JSON ! This project allows you to create dynamic and highly customizable user interfaces for your applications using JSON configurations. Effortlessly redefine aesthetics with simple metadata tweaks – no coding required. 
 
+### Demo
+
+Check out the live demo [here](https://codesandbox.io/p/sandbox/ui-builder-ndrttl?file=%2Fsrc%2FApp.js).
 
 ### Prerequisites
 
@@ -19,7 +22,7 @@ To get started, follow these steps:
 2. Install any necessary dependencies: `npm install`
 3. Start a development server: `npm start` . This will open up a browser window to http://localhost:3000
 
-You can understand its working in this article https://medium.com/@kiranshetty.srv1999/building-dynamic-user-interfaces-a-guide-to-implementing-metadata-driven-uis-63593768e0d4
+You can understand its working in this article [here](https://medium.com/@kiranshetty.srv1999/building-dynamic-user-interfaces-a-guide-to-implementing-metadata-driven-uis-63593768e0d4)
 
 Contributions are welcome! To contribute to this project, follow these steps:
 1. Fork this repository.
